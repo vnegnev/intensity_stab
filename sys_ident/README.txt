@@ -1,0 +1,1 @@
+System: KILL max, everything max, 150mV DC, various square waves from digilent discovery kit
